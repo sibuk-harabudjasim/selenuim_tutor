@@ -1,0 +1,27 @@
+1. Intro
+ - Python program (simple, __name__ == '__main__')
+ - Chrome driver
+ - Firefox driver
+ - Built-in
+
+2. Main actions
+ - get page
+ - select elements (ID, CSS, XPath)
+ - element description
+ - navigation
+ - implicit wait
+
+3. Example task (gismeteo)
+ - open page
+ - navigate to target page
+ * js controlled actions
+ - parse needed data
+
+4. Example task (login, download some movie info)
+
+
+
+
+
+Test task: https://mytemp.email/ create two email boxes and send email from one to another.
+Test task: https://www.meteoprog.ua parse tomorrow weather delta
